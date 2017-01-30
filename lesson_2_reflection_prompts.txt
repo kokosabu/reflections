@@ -21,3 +21,12 @@ How is the staging area different from the working directory and the
 repository? What value do you think it offers?
 file 
 
+How can you use the staging area to make sure you have one commit per logical change?
+ステージング領域を使用して、論理変更ごとに1つのコミットがあることを確認するにはどうすればよいですか。
+->
+git diffを使用して、変更内容を確認する。
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+あなたの歴史を整理するのに支部が役立ついくつかの状況は何ですか？どのように支店が助けますか？
+-> 同時に複数の機能を開発している。別プロジェクトになってきている。
