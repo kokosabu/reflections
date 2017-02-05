@@ -30,3 +30,7 @@ What are some situations when branches would be helpful in keeping your
 history organized? How would branches help?
 あなたの歴史を整理するのに支部が役立ついくつかの状況は何ですか？どのように支店が助けますか？
 -> 同時に複数の機能を開発している。別プロジェクトになってきている。
+
+How do the diagrams help you visualize the branch structure?
+図は、ブランチ構造をどのように視覚化するのに役立ちますか？
+-> どこで分岐したかが分かり易い。
