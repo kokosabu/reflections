@@ -34,3 +34,10 @@ history organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
 図は、ブランチ構造をどのように視覚化するのに役立ちますか？
 -> どこで分岐したかが分かり易い。
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+2つのブランチを一緒にマージした結果はどうですか？
+なぜ私たちは私たちのやり方でそれをダイアグラムで表現しますか？
+->
+良くマージされている。変更履歴および何がマージされたかダイアグラムで表現すると分かり易い。
