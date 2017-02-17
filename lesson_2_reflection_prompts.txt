@@ -41,3 +41,8 @@ the diagram the way we do?
 なぜ私たちは私たちのやり方でそれをダイアグラムで表現しますか？
 ->
 良くマージされている。変更履歴および何がマージされたかダイアグラムで表現すると分かり易い。
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Gitの自動マージの長所と短所は何ですか？手動でマージを行うのは何ですか？
+長所 楽。
+短所 コンフリクトが発生する事がある。
