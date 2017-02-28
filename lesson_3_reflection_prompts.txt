@@ -1,3 +1,9 @@
 When would you want to use a remote repository rather than keeping all your work local?
 すべての作業をローカルにするのではなく、いつリモートリポジトリを使用したいですか？
 他の人とリポジトリを共有するとき。
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+どうしてGitにリモートリポジトリを自動的に最新の状態にしておくのではなく、手動で変更を手動で取得したいのですか？
+・衝突する可能性がある
+・リポートリポジトリも複数あるため、選択可能とする
+・
