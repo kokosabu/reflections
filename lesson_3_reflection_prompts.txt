@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
 ・衝突する可能性がある
 ・リポートリポジトリも複数あるため、選択可能とする
 ・
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+フォーク、クローン、ブランチの違いを説明する。あなたはいつ別のものの代わりに1つを使用しますか？
+・フォーク Github内でクローンをつくる
+・クローン Githubからローカルなど、別環境にリポジトリのコピーをつくる
+・ブランチ 同じリポジトリ内で別のコミットの流れをつくる
