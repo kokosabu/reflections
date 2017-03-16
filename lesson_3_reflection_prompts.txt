@@ -13,3 +13,13 @@ Describe the differences between forks, clones, and branches. When would you use
 ・フォーク Github内でクローンをつくる
 ・クローン Githubからローカルなど、別環境にリポジトリのコピーをつくる
 ・ブランチ 同じリポジトリ内で別のコミットの流れをつくる
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+ローカルに保存されているリモートの最後の既知の状態のコピーを持つことのメリットは何ですか？
+・マージの要否判断(開発がローカルより進んでいるか分かる)
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+GitやGitHubを使わずにどのようにコラボレーションしますか？
+何がより簡単になり、何がより困難になるでしょうか？
+・メール、SVNなど他のバージョン管理ツール
+・操作は簡単になるかもしれない、コンフリクトを解消するのが困難になる
