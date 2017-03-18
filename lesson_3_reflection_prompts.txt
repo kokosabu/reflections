@@ -23,3 +23,9 @@ GitやGitHubを使わずにどのようにコラボレーションしますか�
 何がより簡単になり、何がより困難になるでしょうか？
 ・メール、SVNなど他のバージョン管理ツール
 ・操作は簡単になるかもしれない、コンフリクトを解消するのが困難になる
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+マスターに直接ではなく、別のブランチでいつ変更したいですか？
+それぞれのアプローチにはどのようなメリットがありますか？
+・マスターを破壊することなく変更をかける。
+・新機能を追加する際に、マスターを壊さない。
